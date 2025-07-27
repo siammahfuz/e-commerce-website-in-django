@@ -43,8 +43,8 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/django-ecommerce.git
-   cd django-ecommerce
+   git clone https://github.com/siammahfuz/e-commerce-website-in-django/
+   cd e-commerce-website-in-django
 Create and activate a virtual environment:
 
 bash
@@ -83,6 +83,7 @@ bash
 Copy
 Edit
 python manage.py test
+
 👨‍💻 Developer
 Md. Mahfuzur Rahman Siam
 Django Developer
@@ -97,11 +98,3 @@ This project is licensed under the MIT License.
 
 🙌 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want it personalized further with your GitHub or LinkedIn links, or if you’d like to add more.
